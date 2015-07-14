@@ -1,2 +1,3 @@
-# books
-List of all my books
+# Reading list
+
+Contains the list of the book i've read. This README.md  
