@@ -11,6 +11,13 @@ The actual list of read books is in **readinglist.txt**. This **README** file co
 
 **@** AudioBook
 
-__*__ to __*****__ Rating
+**!1** to **!5** Rating
 
 __^__ Re-Read
+
+### Categories
+
+- Novel
+- Crime
+- Psych
+- Nonfiction
