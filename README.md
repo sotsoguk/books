@@ -15,9 +15,22 @@ The actual list of read books is in **readinglist.txt**. This **README** file co
 
 __^__ Re-Read
 
+
 ### Categories
 
 - Novel
 - Crime
 - Psych
 - Nonfiction
+
+
+### Explanation of symbols in **movielist**
+
+(No Suffix) TV
+**+** Streaming
+
+**@** Download
+
+**^** Physical Media
+
+**!1** to **!5** Rating
