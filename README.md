@@ -11,7 +11,7 @@ The actual list of read books is in **readinglist.txt**. This **README** file co
 
 **@** AudioBook
 
-**!1** to **!5** Rating
+**R1** to **R5** Rating
 
 __^__ Re-Read
 
@@ -33,4 +33,4 @@ __^__ Re-Read
 
 **^** Physical Media
 
-**!1** to **!5** Rating
+**R1** to **R5** Rating
