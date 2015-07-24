@@ -27,6 +27,7 @@ __^__ Re-Read
 ### Explanation of symbols in **movielist**
 
 (No Suffix) TV
+
 **+** Streaming
 
 **@** Download
@@ -34,3 +35,19 @@ __^__ Re-Read
 **^** Physical Media
 
 **R1** to **R5** Rating
+
+**§**  English
+
+### Explanation of symbols in **movielist**
+
+(No Suffix) TV
+
+**+** Streaming
+
+**@** Download
+
+**^** Physical Media
+
+**R1** to **R5** Rating
+
+**§**  English
